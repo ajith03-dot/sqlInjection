@@ -43,7 +43,7 @@ Execute your command as below:
 
 Copy Codecom.ExecuteNonQuery();
 
-# I have built this code with the Guidance of 
+# I have built this code under the Guidance of 
   Sharath Kumar
   
   Head,Solutions Engineering
